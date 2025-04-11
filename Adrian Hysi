@@ -1,4 +1,5 @@
 mkdir "C:\Users\YourName\Documents\Projects"
 cd "C:\Users\YourName\Documents\Projects"
+•	git clone https://github.com/AdrianHysi/nfc-card-app.git
 
 
